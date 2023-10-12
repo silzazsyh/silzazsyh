@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silzazsyh
 - 👀 I’m interested in ... music, gaming, technology in general.
-- 🌱 I’m currently learning ... python! working towards security and ethical hacking.
+- 🌱 I’m currently learning ... python, html, css, js, react.
 - 💞️ I’m looking to collaborate on ... nothing at this time.
 - 📫 How to reach me ... 
 
